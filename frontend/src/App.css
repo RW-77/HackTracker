@@ -1,0 +1,21 @@
+.filterBoxes {
+    float: left;
+    margin: 50px;
+}
+
+.table-responsive {
+    float: right;
+    margin: 50px;
+}
+
+.wrapper {
+    top: 2px;
+}
+
+th {
+    cursor: pointer;
+}
+
+html {
+    overflow-y: auto;
+}
